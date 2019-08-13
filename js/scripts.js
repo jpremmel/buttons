@@ -30,4 +30,8 @@ $(document).ready(function() {
     $("#aimg").show();
   });
 
+  $("#mode").click(function() {
+    $("body").toggleClass("night");
+  });
+
 });
