@@ -13,8 +13,13 @@ h1 {
 }
 
 button {
+  padding: 8px;
+  margin: 8px;
   background:#260033;
   color: #f9e6ff;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 body {
