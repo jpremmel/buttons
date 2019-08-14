@@ -10,7 +10,7 @@ _This is a webpage which displays several buttons, each with the name of a diffe
 
 ## Setup/Installation Requirements
 
-_This project can be viewed at https://jpremmel.github.io/buttons._
+_This project can be viewed at https://jpremmel.github.io/buttons/._
 
 ## Technologies Used
 
